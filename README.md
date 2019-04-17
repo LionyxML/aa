@@ -1,7 +1,7 @@
 aa.sh - Status Line - aa and voilá!
 -----------------------------------
 
-Type aa.sh and bash you return a status line like this:
+Type aa.sh and bash will return a status line like this:
 
 
 ```
