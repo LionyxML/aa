@@ -24,6 +24,8 @@ $ watch -n 1 aa.sh
 
 Or pipe it into other software, like i3bar on i3wm
 
+Of course, you SHOULD modify it to your Linux distro or *nix system.
+
 Screenshot
 ----------
 In this example I've symbolic linked aa to aa.sh, now I am addicted to aa...
