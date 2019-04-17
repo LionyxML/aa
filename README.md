@@ -22,7 +22,7 @@ You can use it with watch to have a "top in line" application:
 $ watch -n 1 aa.sh
 ```
 
-Or pipe it into other software, like i3bar on i3wm
+Or pipe it into other software, like: i3bar on i3wm, gnu/screen and tmux.
 
 Of course, you SHOULD modify it to your Linux distro or *nix system.
 
